@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashrafMahgoub
 - 👀 I’m interested in building distributed systems that are deployed in the cloud. My research interests are Cloud Efficiency, NoSQL Databases, Performance Modeling, and Configuration Management
-- 🌱 I’m currently learning more about Global Optimization, Federated Learning, and 
+- 🌱 I’m currently learning more about Performance and Cost Optimization for Cloud Applications, Machine Learninig Infrastructure, ML Pipelines Optimization.
 - 💞️ I’m looking to collaborate on distributed systems related to Storage, Serverless Computing, Or Genomics.
 - 📫 How to reach me: aymahgoub@outlook.com or ashraf.youssef.mahgoub@gmail.com
 
